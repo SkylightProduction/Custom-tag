@@ -7,7 +7,7 @@ It is mostly used in crafting recipes. When you view a recipe for crafting a sol
 But why would you create a tag for yourself, and even more so why would you give it to an object? You may want to open portal in Twilight forest with diamond, planks and neserite. And that all of these options are available at any given moment. Almost the same example you can give for crafting recipes.
 
 ### Guide:
-- Download and open the archive.
+- [Download and open the archive.](https://github.com/SkylightProduction/Custom-tag/releases/tag/CT)
 - Go to: data/abobka/tags/items (The folder "abobka" can be named as you like.)
 - Open the file "file.json" (you can also name it whatever you want)
 - Instead of minecraft:diamond write the item you want.
